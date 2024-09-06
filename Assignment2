@@ -1,3 +1,4 @@
+# FOR LAPTOP
 erind@DESKTOP-OQF0O6C MINGW64 ~/OneDrive - purdue.edu/Classes/Data Science/lab1_unix/data
 $ cd -
 /c/Users/erind/OneDrive - purdue.edu/Classes/Data Science/lab1_unix
@@ -20,3 +21,6 @@ $ touch new_file.txt
 erind@DESKTOP-OQF0O6C MINGW64 ~/OneDrive - purdue.edu/Classes/Data Science/lab1_unix/data/miRNA
 $ ls
 ggo_miR.fasta  hsa_miR.fasta  miRNA_about.txt  miR_about.txt  ppa_miR.fasta  ppy_miR.fasta  ptr_miR.fasta  ssy_miR.fasta
+
+#FOR LAB DESKTOP
+cd "/c/Users/edriehau/OneDrive - purdue.edu/Classes/Data Science/lab1_unix"
